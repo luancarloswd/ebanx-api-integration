@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using Ebanx.Api.Integration.Request.Enumerations;
+using Ebanx.Api.Integration.Enumerations;
 
 namespace Ebanx.Api.Integration.Request
 {

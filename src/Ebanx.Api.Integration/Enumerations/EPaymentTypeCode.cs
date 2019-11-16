@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace Ebanx.Api.Integration.Request.Enumerations
+namespace Ebanx.Api.Integration.Enumerations
 {
     public enum EPaymentTypeCode
     {
